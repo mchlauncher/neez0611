@@ -1,10 +1,10 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "럭키 블럭"
+title = "엔더켠왕"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/mchlauncher/neezLuckyBlock"
+mediaGitHubURL = "https://github.com/mchlauncher/neez0611"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
@@ -14,10 +14,10 @@ mediaChzzkURL = "#"
 screenshotsTooltip = "스크린샷"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/mchlauncher/neezLuckyBlock"
-supportLink = "https://github.com/mchlauncher/neezLuckyBlock/issues"
+sourceGithubLink = "https://github.com/mchlauncher/neez0611"
+supportLink = "https://github.com/mchlauncher/neez0611/issues"
 
 [ejs.welcome]
-welcomeHeader = "럭키 블럭"
+welcomeHeader = "엔더켠왕"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."

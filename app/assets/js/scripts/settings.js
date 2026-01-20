@@ -1475,7 +1475,7 @@ function populateAboutVersionInformation(){
  */
 function populateReleaseNotes(){
     $.ajax({
-        url: 'https://github.com/mchlauncher/neezLuckyBlock/releases.atom',
+        url: 'https://github.com/mchlauncher/neez0611/releases.atom',
         success: (data) => {
             const version = 'v' + remote.app.getVersion()
             const entries = $(data).find('entry')

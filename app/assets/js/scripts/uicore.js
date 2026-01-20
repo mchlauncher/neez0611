@@ -20,7 +20,6 @@ process.traceProcessWarnings = true
 process.traceDeprecation = true
 
 // Disable eval function.
-// eslint-disable-next-line
 window.eval = global.eval = function () {
     throw new Error('Sorry, this app does not support window.eval().')
 }
@@ -48,7 +47,7 @@ if(!isDev){
                 loggerAutoUpdater.info('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/mchlauncher/neezLuckyBlock/releases/download/v${info.version}/neezLuckyBlock-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
+                    info.darwindownload = `https://github.com/mchlauncher/neez0611/releases/download/v${info.version}/neez0611-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
                     showUpdateUI(info)
                 }
                 
