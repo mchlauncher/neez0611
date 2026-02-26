@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "엔더켠왕"
+title = "15dayz"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/neez0611"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/neez0611"
 supportLink = "https://github.com/mchlauncher/neez0611/issues"
 
 [ejs.welcome]
-welcomeHeader = "엔더켠왕"
+welcomeHeader = "15dayz"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
